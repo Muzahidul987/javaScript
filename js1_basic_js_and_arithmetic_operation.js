@@ -44,7 +44,7 @@ console.log(mod_result);
 console.log( "sum: "+ sum_result);
 console.log('sub:'+sub_result);
 console.log('mul:'+mul_result);
-console.log("div:"+div_result);
+console.log(`div:`+div_result);
 console.log("mod:"+mod_result);
 
 
